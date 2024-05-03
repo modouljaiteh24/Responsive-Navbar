@@ -17,7 +17,7 @@ export const Navbar = () => {
           <span className="text-3xl text-indigo-600 mr-1">
             <ion-icon name="logo-ionic"></ion-icon>
           </span>
-          Frontend Wed developer
+          Frontend Developer
         </div>
         <div
           onClick={() => Setopen(!open)}

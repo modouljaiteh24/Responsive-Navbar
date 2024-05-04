@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
       <Navbar />
-      <div className="bg-indigo-600 w-full h-screen"></div>
+      <div className="bg-indigo-600 w-full h-screen">
+        <h1>Aspiring Developer</h1>
+      </div>
     </div>
   );
 }

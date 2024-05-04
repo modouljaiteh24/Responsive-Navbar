@@ -12,7 +12,7 @@ export const Navbar = () => {
   let [open, Setopen] = useState(false);
   return (
     <div className="shadow-sm w-full fixed top-0 left-0 shadow-gray-600">
-      <div className="md:flex items-center justify-between bg-white py-4 md:px-10 px-7 fixed">
+      <div className="md:flex items-center justify-between bg-white py-4 md:px-10 px-7 fixed w-full">
         <div className="font-bold text-2xl cursor-pointer flex item-center font-[poppins] text-gray-800">
           <span className="text-3xl text-indigo-600 mr-1">
             <ion-icon name="logo-ionic"></ion-icon>

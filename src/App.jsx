@@ -6,7 +6,7 @@ function App() {
     <div>
       <Navbar />
       <div className="bg-indigo-600 w-full h-screen">
-        <h1>Aspiring Developer</h1>
+        <h1 className="mt-[5rem]">Aspiring Developer</h1>
       </div>
     </div>
   );
